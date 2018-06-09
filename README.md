@@ -1,0 +1,2 @@
+# NIM
+Game of NIM
